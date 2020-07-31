@@ -1,0 +1,32 @@
+answer of basic command quiz
+1 --> shell
+2 --> command 	 
+3 --> option
+4.--> argument
+5.--> !string
+6.--> pressing tab
+7.--> !number
+8.--> uname -r
+9.--> wc
+10.--> rm
+11.--> rmdir
+12.--> wc -l
+13.--> date -u
+14.--> date -d
+15.--> date  +%M:%D:%Y
+16.--> uname -s
+17.--> file 	 
+18.--> passwd
+19.--> date wc /etc/passwd
+20.--> pwd
+21.--> mkdir techno
+22.--> mkdir -p techno /ec/el/second/third
+23.--> user-->press tab tab
+24.--> man or command --help
+25.--> 
+          25.a  absolute path --> /home/jelkner/webappdev/unix/example/
+            relative path-->  ./home/jelkner/webappdev/unix/example/ 
+	  25.b  absolute path --> /home/jelkner/webappdev/unix/
+            relative path--> ../unix/	
+	  25.c	absolute path --> /home/kjcole/public_html/
+            relative path--> ../../../home/kjcole/public_html/	
